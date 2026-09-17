@@ -1,74 +1,52 @@
-### Hi there 👋
+Hey, I'm Zero[0] 👋
 
-<!--
-**DEVSMSM/DEVSMSM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+«Developer • Automation • OSINT • Cloud»
 
-Here are some ideas to get you started:
+I build things, break things, automate things, and learn how they work.
 
-- 🔭 I’m currently working on my bots
-- 🌱 I’m currently learning html & css
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about discord.js
-- 📫 How to reach me: Discord & Email
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hello! I'm SmSm - [Zero Codes](https://notsmsm.xyz) 👋
+My main interests are web development, automation, OSINT, web scraping, Linux, cloud infrastructure, and AI-powered development.
 
-### I'm Backend Developer, Developing Discord Bots and Modules!
-- 📚 I'm currently learning networking, docker
-- 🎥 I upload Youtube tutorial videos
-- ⚡ I code in Node.js
+🛠️ What I Work With
 
+- 💻 Development — JavaScript / TypeScript, React, Node.js, NestJS, Fastify
+- 🌐 Web — React, Tailwind CSS, REST APIs, Web Scraping
+- 🤖 AI — AI-assisted development, coding agents, LLM APIs & automation
+- 🔎 OSINT — Open-source intelligence & information gathering
+- 🐧 Linux — Debian, Ubuntu, SSH, system administration
+- ☁️ Cloud — VPS, Docker, reverse proxies, networking & hosting infrastructure
+- ⚙️ Automation — Discord bots, scripts, APIs, workflows and tooling
 
-  <a href="https://discord.gg/z-h"><img src="https://discord.com/api/guilds/496754973883760650/widget.png?style=banner2"></a>
+🚀 Current Projects
 
-***
+Hovix Cloud
+A hosting platform I'm building with a modern cloud infrastructure and management panel.
 
+Night Owl
+An AI-powered coding agent/tooling project focused on autonomous development workflows, terminal operations, Git, Docker, SSH and project context.
 
+Discord & Automation Tools
+Bots and automation systems built with TypeScript, Discord.js, databases and APIs.
 
-### Languages:
-<a href="https://nodejs.org/" target="_blank"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> </a>
-<a href="https://www.javascript.com/" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> </a>
-<a href="https://developer.mozilla.org/de/docs/Learn/Getting_started_with_the_web/HTML_basics" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> </a>
-<a href="https://developer.mozilla.org/de/docs/Web/CSS" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> </a>
-<a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/> </a>
-<a href="https://www.java.com/" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> </a>
-<a href="https://www.json.org/json-en.html" target="_blank"> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/> </a>
+🧰 Tech Stack
 
-### Databases:
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/> </a>
-<a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> </a>
+Languages      TypeScript • JavaScript • HTML • CSS
+Frontend       React • Tailwind CSS
+Backend        Node.js • NestJS • Fastify
+Database       MongoDB • PostgreSQL
+Infrastructure Docker • Linux • VPS • SSH
+Tools          Git • GitHub • Cloudflare
+AI             LLM APIs • AI Coding Tools • Automation
 
-### Cloud:
-<a href="https://www.netlify.com/" target="_blank"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> </a>
-<a href="https://www.heroku.com/" target="_blank"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> </a>
-<a href="https://www.railway.app/" target="_blank"> <img src="https://img.shields.io/badge/Railway-App232F3E?style=for-the-badge&logo=railway-app&logoColor=white" /> </a>
-<a href="https://cloud.google.com/" target="_blank"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> </a>
+📊 GitHub
 
-### Operating Systems:
-<a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> </a>
-<a href="https://linuxmint.com/" target="_blank"> <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" /> </a>
+I use GitHub to experiment, build projects, learn new technologies, and share useful tools.
 
-### Zero Developer's
-Soon
+📫 Contact
 
-### Zero Bot:
-<a href="https://top.gg/bot/518848646016401434">
-  <img src="https://top.gg/api/widget/518848646016401434.svg">
-</a>
+For projects, collaboration, or business:
 
+DM me on GitHub or my social profiles.
 
-## Github Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DEVSMSM&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="DEVSMSM" /></p <div align = "center"> <img src = "https://discord.c99.nl/widget/theme-2/349942964904001546.png"></div>
-<br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVSMSM&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="DEVSMSM" /></p>
+---
 
-![](https://komarev.com/ghpvc/?username=devsmsm&color=yellow&style=for-the-badge)
-### You can find me here:
-<a href="https://discord.gg/RMEQSbMtEk" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a>
-<a href="mailto: notzero0@hotmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
-<a href="https://youtube.com/channel/UC5MlHXKEdpVhjhZ55NZq_3Q" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a>
-
-
+«"Build. Automate. Learn. Repeat."»
