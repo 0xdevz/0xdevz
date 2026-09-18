@@ -39,16 +39,30 @@ I'm a developer focused on building practical software, automating repetitive wo
 | ☁️ **Cloud** | VPS hosting, Docker, reverse proxies, networking, and infrastructure |
 | ⚙️ **Automation** | Discord bots, scripts, APIs, workflows, and developer tooling |
 
-## 🚀 Current Projects
+## 📦 Public Repositories
 
-### ☁️ Hovix Cloud
-A hosting platform I'm building around modern cloud infrastructure and a dedicated management panel.
+Here are some of my public projects. Explore the repositories to see what I've built and what I'm experimenting with.
 
-### 🦉 Night Owl
-An AI-powered coding agent and tooling project focused on autonomous development workflows, terminal operations, Git, Docker, SSH, and project context.
+### 🆕 [discord.js-template](https://github.com/0xdevz/discord.js-template)
+A starter template for building Discord.js applications with JavaScript.
 
-### 🤖 Discord & Automation Tools
-TypeScript-based bots and automation systems powered by Discord.js, databases, APIs, and custom workflows.
+### 💳 [discord-patreon](https://github.com/0xdevz/discord-patreon)
+A TypeScript project integrating Discord bots with the Patreon API and client workflows.
+
+### 🎵 [Simple-Music-Bot](https://github.com/0xdevz/Simple-Music-Bot)
+A simple Discord music bot built with JavaScript.
+
+### 🤝 [Partner-Bot](https://github.com/0xdevz/Partner-Bot)
+A Discord bot project designed to help manage server partnerships and community workflows.
+
+### 🎮 [PLAYING-V14](https://github.com/0xdevz/PLAYING-V14)
+A JavaScript Discord bot project built for Discord API v14.
+
+### ⚛️ [React-Manager](https://github.com/0xdevz/React-Manager)
+A React-based project for experimenting with frontend interfaces and management tooling.
+
+### 🪪 [slfcrd](https://github.com/0xdevz/slfcrd)
+A JavaScript project for experimenting with profile-card and identity-focused tooling.
 
 ## 🧰 Tech Stack
 
